@@ -1,0 +1,6 @@
+c:\users\ironyard\Desktop\Projects\Homework_Week1\Homework_Week1\bin\Debug\Homework_Week1.exe.config
+c:\users\ironyard\Desktop\Projects\Homework_Week1\Homework_Week1\obj\Debug\Homework_Week1.csprojResolveAssemblyReference.cache
+c:\users\ironyard\Desktop\Projects\Homework_Week1\Homework_Week1\bin\Debug\Homework_Week1.exe
+c:\users\ironyard\Desktop\Projects\Homework_Week1\Homework_Week1\bin\Debug\Homework_Week1.pdb
+c:\users\ironyard\Desktop\Projects\Homework_Week1\Homework_Week1\obj\Debug\Homework_Week1.exe
+c:\users\ironyard\Desktop\Projects\Homework_Week1\Homework_Week1\obj\Debug\Homework_Week1.pdb
